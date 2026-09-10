@@ -170,16 +170,16 @@ SEMANA_11/
 ├── laboratorio_pratico_original.ipynb
 │
 ├── SEMANA_11_GRUPO_1/
-│   └── laboratorio_pratico.ipynb
+│   └── laboratorio_pratico_grupo1.ipynb
 │
 ├── SEMANA_11_GRUPO_2/
-│   └── laboratorio_pratico.ipynb
+│   └── laboratorio_pratico_grupo2.ipynb
 │
 ├── SEMANA_11_GRUPO_3/
-│   └── laboratorio_pratico.ipynb
+│   └── laboratorio_pratico_grupo3.ipynb
 │
 └── SEMANA_11_GRUPO_4/
-    └── laboratorio_pratico.ipynb
+    └── laboratorio_pratico_grupo4.ipynb
 ```
 
 Os nomes exatos dos repositórios dos grupos podem variar de acordo com a organização da turma.
